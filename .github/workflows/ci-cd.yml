@@ -24,4 +24,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: <kavishkarasa2001>/devops-python-app:latest
+        tags: kavishkarasa2001/devops-python-app:latest
